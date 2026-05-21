@@ -1,0 +1,5 @@
+FOUND DIRECTORIES
+
+/admin
+/login
+/api
